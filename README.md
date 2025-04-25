@@ -65,4 +65,4 @@ Boutique-Management-System/
 
 Vamshi Krishna Tadivalasa
 
-[LinkedIn](https://www.linkedin.com/in/vamshi-krish-na/) | GitHub
+[LinkedIn](https://www.linkedin.com/in/vamshi-krish-na/) | [GitHub](https://github.com/vamshikrish1711)
