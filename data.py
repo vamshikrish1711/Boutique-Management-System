@@ -1,11 +1,12 @@
 import mysql.connector
 
-mydb = mysql.connector.connect(
-host="localhost",
-user="Dharani",
-password="22eg112c12",
-database="sboutique"
-)
+	mysql.connector.connect(
+	    host="localhost",
+	    user="YOUR_USERNAME",
+	    password="YOUR_PASSWORD",
+	    database="YOUR_DATABASE"
+	)
+
 
 mycursor = mydb.cursor()
 
