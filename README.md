@@ -34,15 +34,15 @@ A Tkinter-based desktop application designed to manage customer bookings, produc
 
 2.	Update Database Credentials:
 	Edit data.py with your own MySQL credentials and database name:
+```
+	mysql.connector.connect(
+	    host="localhost",
+	    user="YOUR_USERNAME",
+	    password="YOUR_PASSWORD",
+	    database="YOUR_DATABASE"
+	)
 
-mysql.connector.connect(
-    host="localhost",
-    user="YOUR_USERNAME",
-    password="YOUR_PASSWORD",
-    database="YOUR_DATABASE"
-)
-
-
+```
 3.	Launch the App:
 
 python vamshi.py
