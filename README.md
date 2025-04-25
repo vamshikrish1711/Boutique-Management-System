@@ -48,13 +48,13 @@ A Tkinter-based desktop application designed to manage customer bookings, produc
 python vamshi.py
 
 📦 Folder Structure
-
+```
 Boutique-Management-System/
 ├── vamshi.py          # Main GUI application
 ├── data.py            # MySQL database connection logic
 ├── requirements.txt   # Dependencies
 └── README.md          # Project overview
-
+```
 ⚠️ Notes
 
 	•	This project assumes you have a MySQL database configured.
@@ -65,4 +65,4 @@ Boutique-Management-System/
 
 Vamshi Krishna Tadivalasa
 
-LinkedIn | GitHub
+[LinkedIn](https://www.linkedin.com/in/vamshi-krish-na/) | GitHub
